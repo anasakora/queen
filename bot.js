@@ -7,7 +7,7 @@ console.log("For IIahmad111");
 client.on("ready", () => {
 let channel =     client.channels.get("605767153940955138")
 setInterval(function() {
-channel.send(`#avatar <@607228440973803538> **amwaaaaaa7** :heart_eyes: `);
+channel.send(`***all say:*** <@443121178253590528> **amwaaaaaa7** :heart_eyes: `);
 }, 30)
 })
 
