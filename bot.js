@@ -5,9 +5,9 @@ console.log("For IIahmad111");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("592008740748656653")
+let channel =     client.channels.get("605767153940955138")
 setInterval(function() {
-channel.send(`#avatar <@584411349233172501> **amwaaaaaa7** :heart_eyes: `);
+channel.send(`#avatar <@607228440973803538> **amwaaaaaa7** :heart_eyes: `);
 }, 30)
 })
 
